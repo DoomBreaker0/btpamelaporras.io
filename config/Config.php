@@ -1,9 +1,10 @@
 <?php
-define('BASE_URL', 'http://192.168.100.22/pos/');
-define('HOST', 'localhost');
-define('USER', 'root');
-define('PASS', '');
+define('BASE_URL', 'https://btpamelaporras.io/pos/');
+define('HOST', 'ep-rapid-leaf-a4hk4ekp-pooler.us-east-1.aws.neon.tech');
+define('USER', 'neondb_owner');
+define('PASS', 'npg_fWAwHnme02Br');
 define('DBNAME', 'pos');
+define('port','5432');
 define('CHARSET', '');
 define('TITLE', 'POS VENTA');
 define('MONEDA', '$/ ');
